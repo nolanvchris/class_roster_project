@@ -1,0 +1,6 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\nolan\Downloads\class_roster_project\roster.cpp(157,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  class_roster_project.vcxproj -> C:\Users\nolan\Downloads\class_roster_project\x64\Debug\class_roster_project.exe
